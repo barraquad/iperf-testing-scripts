@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Copyright barraquad (c) 2026
+# Copyright(c) barraquad 2026
 # Use at your own risk!
 # Licensed under BSD license. Do not take credit for this!
 
